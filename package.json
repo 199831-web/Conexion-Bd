@@ -1,0 +1,23 @@
+{
+  "name": "3.conexionbd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mysql2": "^3.14.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mauriciorivero/3.ConexionBD.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mauriciorivero/3.ConexionBD/issues"
+  },
+  "homepage": "https://github.com/mauriciorivero/3.ConexionBD#readme",
+  "description": ""
+}
